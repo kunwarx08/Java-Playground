@@ -1,3 +1,9 @@
+
+//Working of scanner class --
+//->Import Package
+//->Create Scanner Object
+//->Select correct method and store it in appropriate variable to use 
+
 import java.util.Scanner;
  
  public class scn {
