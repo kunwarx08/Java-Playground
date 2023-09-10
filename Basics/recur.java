@@ -8,8 +8,8 @@ public class recur {
         }
         //
     public static void main(String[] args){
-        int m=5;
+        //int m=5;
         System.out.println(fact(5));
     }
-        //
+
 }
