@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class arraySmallestno {
+public class arraySmallest {
      public static void main(String[] args) {
         int size,i;
         System.out.println("Enter Size of array");
