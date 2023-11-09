@@ -13,7 +13,9 @@ public class arraybiggestno {
         for(i=0;i<size;i++){
             arr[i]=obj.nextInt();
         }
-        int max=arr[0];
+
+        //Logic is this.
+        int max=arr[0]; 
         for(i=0;i<size;i++){
             if(arr[i]>max){
                 max=arr[i];

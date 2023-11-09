@@ -13,6 +13,8 @@ public class arraySmallest {
         for(i=0;i<size;i++){
             arr[i]=obj.nextInt();
         }
+
+        //Logic is this.
         int small=arr[0];
         for(i=0;i<size;i++){
             if(arr[i]<small){
